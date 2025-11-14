@@ -1,0 +1,230 @@
+{
+  "heading": "Probability Of Single Event",
+  "topics": [
+    {
+      "heading": "Probability Of Single Event",
+      "questions": [
+  {
+    "questionNo": 1,
+    "question": ["State whether the following statement is true or false.<br> When flipping a fair coin, getting heads has an even chance."],
+    "options": [
+      { "text": "True" },
+      { "text": "False" }
+    ],
+    "answer": 0
+  },
+  {
+    "questionNo": 2,
+    "question": ["State whether the following statement is true or false.<br> When rolling a fair 6-sided die, rolling a number greater than 4 has an even chance."],
+    "options": [
+      { "text": "True" },
+      { "text": "False" }
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 3,
+    "question": ["State whether the following statement is true or false.<br> When picking a card from a standard deck, there is an even chance of getting a red card."],
+    "options": [
+      { "text": "True" },
+      { "text": "False" }
+    ],
+    "answer": 0
+  },
+  {
+    "questionNo": 4,
+    "question": ["Ethan takes the train home from school every day for a week. Think about the following events:<br>X: Ethan misses the train on Monday.<br>Y: Ethan misses the train on Monday, but not on any other day.<br>Z: Ethan misses the train on Monday and Tuesday.<br>Which of these is the most likely to happen?"],
+    "options": [
+      { "text": " X" },
+      { "text": " Y" },
+      { "text": " Z" },
+      { "text": " They are all equally likely" }
+    ],
+    "answer": 0
+  },
+  {
+    "questionNo": 5,
+    "question": ["A fair six-sided die is rolled. What is the probability of getting a prime number?"],
+    "options": [
+      { "text": " 1/2" },
+      { "text": " 1/3" },
+      { "text": " 2/3" },
+      { "text": " 5/6" }
+    ],
+    "answer": 0
+  },
+  {
+    "questionNo": 6,
+    "question": ["A group of students write down the first letter of their names on a card.<br>Which letter has the same probability of being chosen as an Y?"],
+    "options": [
+      { "text": " W" },
+      { "text": " M" },
+      { "text": " E" },
+      { "text": " X" }
+    ],
+    "answer": 3,
+    "image": "./assests/images/question/1.png"
+  },
+  {
+    "questionNo": 7,
+    "question": ["On which spinner is more likely to get an even number?"],
+    "options": [
+      { "text": " A" },
+      { "text": " B" },
+      { "text": " Both A and B" },
+      { "text": " Cannot be determined" }
+    ],
+    "answer": 0,
+    "image": "./assests/images/question/2.png"
+  },
+  {
+    "questionNo": 8,
+    "question": ["A box has 3 black balls, 4 white balls, and 8 red balls. If one ball is picked at random, what is the probability of picking a black or white ball?"],
+    "options": [
+      { "text": " 3/15" },
+      { "text": " 4/15" },
+      { "text": " 7/15" },
+      { "text": " 11/15" }
+    ],
+    "answer": 2
+  },
+  {
+    "questionNo": 9,
+    "question": ["A spinner has an outer ring divided into 8 sections. The inner ring has 12 equal sections.<br>What is the probability of getting a 2?"],
+    "options": [
+      { "text": " 1/4" },
+      { "text": " 1/3" },
+      { "text": " 3/8" },
+      { "text": " 1/8" }
+    ],
+    "answer": 0,
+    "image": "./assests/images/question/3.png"
+  },
+  {
+    "questionNo": 10,
+    "question": ["Which spinner is more likely to get 1?"],
+    "options": [
+      { "text": " A" },
+      { "text": " B" },
+      { "text": " Both A and B" },
+      { "text": " Cannot be determined" }
+    ],
+    "answer": 2,
+    "image": "./assests/images/question/4.png"
+  },
+  {
+    "questionNo": 11,
+    "question": ["A six-sided die has faces labeled A, B, C, D, E, and F. What is the probability of rolling a vowel?"],
+    "options": [
+      { "text": " 1/6" },
+      { "text": " 1/3" },
+      { "text": " 1/2" },
+      { "text": " 2/3" }
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 12,
+    "question": ["A school survey found 50 students liked football. 20 of them were girls. If a randomly selected student liked football, what is the probability they were a girl?"],
+    "options": [
+      { "text": " 0.35" },
+      { "text": " 0.04" },
+      { "text": " 0.5" },
+      { "text": " 0.4" }
+    ],
+    "answer": 3
+  },
+  {
+    "questionNo": 13,
+    "question": ["A die is rolled. What is the probability of getting a number greater than 3?"],
+    "options": [
+      { "text": " 1/2" },
+      { "text": " 1/3" },
+      { "text": " 2/3" },
+      { "text": " 5/6" }
+    ],
+    "answer": 0
+  },
+  {
+    "questionNo": 14,
+    "question": ["A bag contains 48 marbles: some red and some green. The probability of picking a red marble is 2x, and the probability of picking a green marble is 6x. How many green marbles are there?"],
+    "options": [
+      { "text": " 36" },
+      { "text": " 30" },
+      { "text": " 20" },
+      { "text": " 40" }
+    ],
+    "answer": 0
+  },
+  {
+    "questionNo": 15,
+    "question": ["In a class, 15 out of 25 girls and 5 out of 15 boys take the school bus. If a randomly selected student who takes the bus is chosen, what is the probability that the student is a boy?"],
+    "options": [
+      { "text": " 20%" },
+      { "text": " 2%" },
+      { "text": " 25%" },
+      { "text": " 2.5%" }
+    ],
+    "answer": 2
+  },
+  {
+    "questionNo": 16,
+    "question": ["In a school, 55% of students are girls. What is the probability that a randomly chosen student is a boy?"],
+    "options": [
+      { "text": " 0.35" },
+      { "text": " 0.4" },
+      { "text": " 0.5" },
+      { "text": " 0.45" }
+    ],
+    "answer": 3
+  },
+  {
+    "questionNo": 17,
+    "question": ["A raffle has 200 tickets. Ryan buys 8, Sarah buys 6, and Leo buys 4. What is the probability that Ryan wins?"],
+    "options": [
+      { "text": " 0.08" },
+      { "text": " 0.04" },
+      { "text": " 0.06" },
+      { "text": " 0.10" }
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 18,
+    "question": ["A bag contains 6 red, 5 yellow, and 4 green marbles. If one marble is randomly drawn, what is the probability it is not red?"],
+    "options": [
+      { "text": " 1/2" },
+      { "text": " 3/5" },
+      { "text": " 2/5" },
+      { "text": " 1/3" }
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 19,
+    "question": ["In a raffle draw, tickets numbered consecutively from 401 through 750 are placed in a box.<br> What is the probability that a ticket selected at random will have a hundredth digit of 5?"],
+    "options": [
+      { "text": " 0.25" },
+      { "text": " 1/2" },
+      { "text": " 1/3" },
+      { "text": " 2/5" }
+    ],
+    "answer": 3
+  },
+  {
+    "questionNo": 20,
+    "question": ["Lily spins a fair spinner every day for a week. Think about the following events:<br>X: Lily lands on red on Wednesday.<br>Y: Lily lands on red on both Wednesday and Thursday.<br>Z: Lily lands on red on Wednesday, but not on any other day.<br>Which of these is the least likely to happen?"],
+    "options": [
+      { "text": " X" },
+      { "text": " Y" },
+      { "text": " Z" },
+      { "text": " They are all equally likely" }
+    ],
+    "answer": 1
+  }
+]
+
+
+    }
+  ]
+}
